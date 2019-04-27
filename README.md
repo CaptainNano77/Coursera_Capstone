@@ -10,3 +10,4 @@ This contains:
 2) Several tutorial notebooks that I completed on a) building github repositories, b) Using Kmeans and c) using Foursquare and Folium
 3) Assignment #1 notebook
 
+
